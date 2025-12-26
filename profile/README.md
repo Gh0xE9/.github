@@ -10,3 +10,4 @@ Link:
 Project:
 - EagleSword: A lightweight vulnerability scanning tool focused on serving white-hat hackers in vulnerability discovery and assisting them in conducting deep fuzzing tests.
 - NextAssets: This asset mapping platform, used for monitoring the entire network, differs from Shodan and Hunter in that it runs entirely on your local server.
+- FInCLM: A fully automated CTF problem-solving robot, covering MISC, PWN, REVERSE, and CRYPTO, automatically solves CTF problems and outputs the flag and solution process. It has already been applied in real-world scenarios.
